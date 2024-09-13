@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Elemento
+comment1.params=vivo\ pos
+comment1.target=Elemento(boolean,\ int)
+comment2.params=
+comment2.target=boolean\ getvivo()
+comment3.params=vivo
+comment3.target=void\ setVivo(boolean)
+comment4.params=
+comment4.target=int\ getpos()
+numComments=5

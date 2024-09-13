@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Josephus
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numeroDeIndividuos\ intervalo
+comment2.target=void\ executarJosephus(int,\ int)
+comment3.params=index
+comment3.target=Elemento\ getElemento(int)
+comment4.params=index
+comment4.target=int\ getMorto(int)
+comment5.params=
+comment5.target=int\ getVivo()
+numComments=6
